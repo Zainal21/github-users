@@ -42,7 +42,6 @@ function App() {
       <Helmet>
         <meta charSet="utf-8" />
         <title>Github Users</title>
-        <link rel="canonical" href="http://mysite.com/example" />
       </Helmet>
       <Container className={`my-5`}>
         <h1 className="text-gray-600 text-3xl">
